@@ -1,0 +1,24 @@
+.shell {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+
+}
+
+/* h1 {
+    font-size: 70px;
+} */
+
+.timer {
+    color: #FF204E;
+    text-shadow: 5px 5px  #00224D;
+    font-size: 70px;
+}
+
+.count {
+    color: #FFF56D;
+    text-shadow: 5px 5px  #00224D;
+    font-size: 100px;
+}

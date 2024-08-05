@@ -1,0 +1,30 @@
+button {
+    margin: 20px;
+    height: 50px;
+    width: 170px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    /* transition: 0.3s background-color 0.2s; */
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+.start {
+    background-color: #FF5DA2;
+    box-shadow: 5px 5px  #00224D;
+}
+
+.clickMe {
+    background-color: #B4FE98;
+    box-shadow: 5px 5px  #00224D;
+}
+
+.reset {
+    box-shadow: 5px 5px  #00224D;
+    background-color: #998CEB;
+}
+
